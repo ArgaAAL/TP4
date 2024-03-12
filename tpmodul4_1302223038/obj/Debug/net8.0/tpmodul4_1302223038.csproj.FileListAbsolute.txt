@@ -1,0 +1,14 @@
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\bin\Debug\net8.0\tpmodul4_1302223038.exe
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\bin\Debug\net8.0\tpmodul4_1302223038.deps.json
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\bin\Debug\net8.0\tpmodul4_1302223038.runtimeconfig.json
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\bin\Debug\net8.0\tpmodul4_1302223038.dll
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\bin\Debug\net8.0\tpmodul4_1302223038.pdb
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.AssemblyInfoInputs.cache
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.AssemblyInfo.cs
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.csproj.CoreCompileInputs.cache
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.dll
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\refint\tpmodul4_1302223038.dll
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.pdb
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.genruntimeconfig.cache
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\ref\tpmodul4_1302223038.dll
