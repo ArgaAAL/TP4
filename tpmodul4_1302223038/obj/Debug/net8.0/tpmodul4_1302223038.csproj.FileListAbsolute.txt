@@ -12,3 +12,4 @@ C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\refi
 C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.pdb
 C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.genruntimeconfig.cache
 C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\ref\tpmodul4_1302223038.dll
+C:\AAL\TestesBesar\tpmodul4_1302223038\tpmodul4_1302223038\obj\Debug\net8.0\tpmodul4_1302223038.sourcelink.json
